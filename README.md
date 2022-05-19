@@ -73,3 +73,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 <h1 align="center">REACT QuoteApp</h1>
+
+
+Add your quote and view all your quotes in "All Quotes" page. Quotes are stored in Firebase DB
+![image](https://user-images.githubusercontent.com/37900854/169389096-d0ecd162-2954-4c0c-8a3b-c63737b1308b.png)
+
